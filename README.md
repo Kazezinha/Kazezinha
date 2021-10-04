@@ -1,6 +1,9 @@
 ## KAZUNA
 - ⚡ Pronouns: ela/dela, 
 - 🌺 Fale comigo pelo: Kazuna#0366
+- ❄️ canadian, 1? years, slytherin! PLS TW // abuse (any type), insects (specially spiders)
+- 🌨️ My languages: eng/fr/pt-br 🇨🇦 🇫🇷 🇧🇷
+- 💻 3D Animator • Future Scientist • Professional Fighter
 
 <div align="center">
   <a href="https://github.com/Kazezinha">
