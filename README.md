@@ -26,7 +26,7 @@
   <a href = "mailto:blacklifehorror@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.netflix.com"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"
     target="_blank"></a>
-  <a href = "https://www.reddit.com/user/Middle_Somewhere_980"><img src="https://aleen42.github.io/badges/src/reddit.svg"
+  <a href = "https://www.reddit.com/user/Yanderizinha"><img src="https://aleen42.github.io/badges/src/reddit.svg"
                                                                     target="_blank"></a>
 </div>
   
