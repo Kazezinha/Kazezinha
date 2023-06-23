@@ -1,7 +1,9 @@
 ## KAZUNA
-- ❄️ Canadian
+- ⚡ Pronouns: ela/dela, 
+- 🌺 Fale comigo pelo: Kazuna#0366
+- ❄️ canadian, 1? years, slytherin! PLS TW // abuse (any type), insects (specially spiders)
 - 🌨️ My languages: eng/fr/pt-br 🇨🇦 🇫🇷 🇧🇷
-- 💻 3D Animator • Enterpreneur
+- 💻 3D Animator • Future Scientist • Professional Fighter
 
 <div align="center">
   <a href="https://github.com/Kazezinha">
@@ -16,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-src="https://cdn.discordapp.com/attachments/877074155604959243/894369348670595123/Screenshot_9477.png">
+    
 </div>
   
 ##
